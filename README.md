@@ -1,5 +1,4 @@
 # P1
-My first project
 
 the main doc document is :
 https://drive.google.com/file/d/0B1qm2PHIyyFzelFNcTVvM3VnU3RyMGJJSXdma1FFTlJENDVN/view?usp=sharing
